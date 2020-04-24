@@ -1,5 +1,5 @@
-# Unleash Client SDK for Java
-This is the Unleash Client SDK for Java. It is compatible with the [Unlesah-hosted.com SaaS](https://www.unleash-hosted.com/) offering and [Unleash Open-Source](https://github.com/unleash/unleash).
+# Unleash Client SDK for Java - OSGI bundle for AEM
+This is the Unleash Client SDK for Java. It is compatible with the [Unlesah-hosted.com SaaS](https://www.unleash-hosted.com/) offering and [Unleash Open-Source](https://github.com/unleash/unleash). You can use it on AEM.
 
 
 [![Build Status](https://travis-ci.org/Unleash/unleash-client-java.svg?branch=master)](https://travis-ci.org/Unleash/unleash-client-java)
@@ -14,7 +14,7 @@ You will require unleash on your class path, pop it in to your pom:
 <dependency>
     <groupId>no.finn.unleash</groupId>
     <artifactId>unleash-client-java</artifactId>
-    <version>Latest version here</version>
+    <version>3.3.3-bundle</version>
 </dependency>
 ```
 
